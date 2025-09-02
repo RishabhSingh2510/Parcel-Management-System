@@ -1,0 +1,16 @@
+# Node (frontend)
+node_modules/
+dist/
+.env
+
+# Java (backend)
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+
+# IDEs
+.vscode/
+.idea/
